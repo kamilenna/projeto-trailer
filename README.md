@@ -1,4 +1,4 @@
-<h1 style = "text-align: center"> 🎬 Projeto - Trailer 🎬</h1>
+<h1 align="center"> 🎬 Projeto - Trailer 🎬</h1>
 
 <h3 align="center"> 
 	Projeto concluído ✅
