@@ -9,7 +9,10 @@
 
 <p>Durante o desenvolvimento do projeto o meninos do Dev em Dobro escolheram fazer sobre o Super Mario Bros e eu escolhi fazer sobre o o meu desenho de infãmcia favorito: Três espiãs demais.</p>
 
-<h3><strong><a href="#">Link do projeto</a></strong></h3>
+
+<h2>🎨 Layout</h2>
+<img src="src/imagens/gif-projeto.gif"/>
+<h3><a href="https://kamilenna.github.io/projeto-trailer/">Link do projeto</a></h3>
 
 <br>
 
