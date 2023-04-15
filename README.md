@@ -5,9 +5,9 @@
 </h3>
 
 <h2>💻 Sobre o projeto</h2>
-<p>Projeto desenvolvido durante a Semana: Do zero a programador contrato, oferecida pelo canal <a href="https://www.youtube.com/@DevemDobro" target="-blank">Dev em Dobro. </a>A proposta do projeto é criar um página de uma filme/serie e abaixo um botão que abre um modal com o trailer do filme/serie correspondente.</p> 
+<p>Projeto desenvolvido durante a Semana: Do zero a programador contratado, oferecida pelo canal <a href="https://www.youtube.com/@DevemDobro" target="-blank">Dev em Dobro. </a>A proposta do projeto é criar um página de um filme/série e abaixo um botão que abre um modal com o trailer do filme/série correspondente.</p> 
 
-<p>Durante o desenvolvimento do projeto o meninos do Dev em Dobro escolheram fazer sobre o Super Mario Bros e eu escolhi fazer sobre o o meu desenho de infãmcia favorito: Três espiãs demais.</p>
+<p>Durante o desenvolvimento do projeto o meninos do Dev em Dobro escolheram fazer sobre o Super Mario Bros e eu escolhi fazer sobre o  meu desenho de infância favorito: Três espiãs demais.</p>
 
 
 <h2>🎨 Layout</h2>
